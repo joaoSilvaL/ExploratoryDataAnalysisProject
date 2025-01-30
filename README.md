@@ -12,4 +12,5 @@ Numpy
 
 Matplotlib/Seaborn (para visualização de dados)
 
-## link para a base de dados e outros detalhes: https://www.kaggle.com/datasets/kianwee/agricultural-raw-material-prices-19902020
+##
+link para a base de dados e outros detalhes: https://www.kaggle.com/datasets/kianwee/agricultural-raw-material-prices-19902020
